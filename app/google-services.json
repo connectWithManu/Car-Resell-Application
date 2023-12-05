@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604508635592",
+    "project_id": "car-app-7adba",
+    "storage_bucket": "car-app-7adba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604508635592:android:c581f62228478ba68840fd",
+        "android_client_info": {
+          "package_name": "com.manu.caradminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA636De2lmecauQuX-8BECy54GtHK5ydBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604508635592:android:673a7fc7d96de39b8840fd",
+        "android_client_info": {
+          "package_name": "com.manu.carstoreuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA636De2lmecauQuX-8BECy54GtHK5ydBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
